@@ -39,28 +39,28 @@ context.SaveChanges();
 
 Console.WriteLine("New customer and sale have been added to the database.");
 
-//var store = new Store
-//{ };
-        
-//        Console.WriteLine("Add the new store");
-//        Console.WriteLine("Please enter the store name?");
-//        store.Name = Console.ReadLine();
+var store = new Store
+{ };
 
-//        Console.WriteLine("Please enter the store location?");
+Console.WriteLine("Add the new store");
+Console.WriteLine("Please enter the store name?");
+store.Name = Console.ReadLine();
 
-//        store.Location = Console.ReadLine();
+Console.WriteLine("Please enter the store location?");
 
-//Console.WriteLine($"Your new store name and location is {store.Name} {store.Location}");
+store.Location = Console.ReadLine();
 
-//Console.WriteLine("Do you want to save this store to the database?");
+Console.WriteLine($"Your new store name and location is {store.Name} {store.Location}");
 
-//var response = Console.ReadLine();
+Console.WriteLine("Do you want to save this store to the database?");
 
-//if (response?.ToLower() == "y")
-//{
-//    context.Stores.Add(store);
-//    context.SaveChanges();
-//}
+var response = Console.ReadLine();
+
+if (response?.ToLower() == "y")
+{
+    context.Stores.Add(store);
+    context.SaveChanges();
+}
 
 //Find the list of all stores that have sales 
 
