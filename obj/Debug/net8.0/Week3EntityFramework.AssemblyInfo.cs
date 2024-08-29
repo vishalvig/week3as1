@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Week3EntityFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a10607f259186ec5cd760d45cde31f46bad1740")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65739d8b5d81776770c68bb82784581207fd813d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Week3EntityFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Week3EntityFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

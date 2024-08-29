@@ -14,6 +14,66 @@ foreach (var customer in customersWithoutSales)
     Console.WriteLine($"Customer without sales: {customer.FirstName} {customer.LastName}");
 }
 
+var newCustomer = new Customer
+{
+    FirstName = "Nihit",
+    LastName = "Vig",
+    DateOfBirth = DateTime.Now.AddYears(-30) // Example date of birth
+};
+
+// Create a new sale
+var newSale = new Sale
+{
+    ProductId = 1, // Replace with actual product ID
+    DateSold = DateTime.Now,
+    Customer = newCustomer, // Associate the sale with the new customer
+    StoreId = 3
+};
+
+// Add the customer and sale to the context
+context.Customers.Add(newCustomer);
+context.Sales.Add(newSale);
+
+// Save changes to the database
+context.SaveChanges();
+
+Console.WriteLine("New customer and sale have been added to the database.");
+
+//var store = new Store
+//{ };
+        
+//        Console.WriteLine("Add the new store");
+//        Console.WriteLine("Please enter the store name?");
+//        store.Name = Console.ReadLine();
+
+//        Console.WriteLine("Please enter the store location?");
+
+//        store.Location = Console.ReadLine();
+
+//Console.WriteLine($"Your new store name and location is {store.Name} {store.Location}");
+
+//Console.WriteLine("Do you want to save this store to the database?");
+
+//var response = Console.ReadLine();
+
+//if (response?.ToLower() == "y")
+//{
+//    context.Stores.Add(store);
+//    context.SaveChanges();
+//}
+
+//Find the list of all stores that have sales 
+
+var allstorewithsale = context.Stores
+    .Where(s => context.Sales.Any(sa => sa.StoreId == s.Id))
+    .ToList();
+
+foreach (var ste in allstorewithsale)
+{
+    Console.WriteLine($"List of all store with sales: {ste.Name} {ste.Location}");
+}
+
+
 //var customer = new Customer
 //{
 //    DateOfBirth = DateTime.Now.AddYears(-20)
@@ -51,13 +111,13 @@ foreach (var customer in customersWithoutSales)
 
 
 //var sales = context.Sales.Include(c => c.Customer)
- //   .Include(p => p.Product).ToList();
+//   .Include(p => p.Product).ToList();
 
 //var salesDto = new List<SaleDto>();
 
 //foreach (Sale s in sales)
 //{
-   // salesDto.Add(new SaleDto(s));
+// salesDto.Add(new SaleDto(s));
 //}
 
 
@@ -81,8 +141,8 @@ foreach (var customer in customersWithoutSales)
 //var response = Convert.ToInt32(Console.ReadLine());
 
 //var customer = context.Customers.Include(s => s.Sales)
- //   .ThenInclude(p => p.Product)
- //   .FirstOrDefault(c => c.Id == response);
+//   .ThenInclude(p => p.Product)
+//   .FirstOrDefault(c => c.Id == response);
 
 
 //var total = customer.Sales.Select(s => s.Product.Price).Sum();
