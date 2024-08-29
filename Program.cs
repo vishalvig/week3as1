@@ -4,6 +4,16 @@ using Week3EntityFramework.Dtos;
 
 var context = new IndustryConnectWeek2Context();
 
+var customersWithoutSales = context.Customers
+            .Where(c => !context.Sales.Any(s => s.CustomerId == c.Id))
+            .ToList();
+
+// Output the results
+foreach (var customer in customersWithoutSales)
+{
+    Console.WriteLine($"Customer without sales: {customer.FirstName} {customer.LastName}");
+}
+
 //var customer = new Customer
 //{
 //    DateOfBirth = DateTime.Now.AddYears(-20)
@@ -40,15 +50,15 @@ var context = new IndustryConnectWeek2Context();
 
 
 
-var sales = context.Sales.Include(c => c.Customer)
-    .Include(p => p.Product).ToList();
+//var sales = context.Sales.Include(c => c.Customer)
+ //   .Include(p => p.Product).ToList();
 
-var salesDto = new List<SaleDto>();
+//var salesDto = new List<SaleDto>();
 
-foreach (Sale s in sales)
-{
-    salesDto.Add(new SaleDto(s));
-}
+//foreach (Sale s in sales)
+//{
+   // salesDto.Add(new SaleDto(s));
+//}
 
 
 
@@ -66,19 +76,19 @@ foreach (Sale s in sales)
 
 
 
-Console.WriteLine("Which customer record would you like to update?");
+//Console.WriteLine("Which customer record would you like to update?");
 
-var response = Convert.ToInt32(Console.ReadLine());
+//var response = Convert.ToInt32(Console.ReadLine());
 
-var customer = context.Customers.Include(s => s.Sales)
-    .ThenInclude(p => p.Product)
-    .FirstOrDefault(c => c.Id == response);
-
-
-var total = customer.Sales.Select(s => s.Product.Price).Sum();
+//var customer = context.Customers.Include(s => s.Sales)
+ //   .ThenInclude(p => p.Product)
+ //   .FirstOrDefault(c => c.Id == response);
 
 
-var customerSales = context.CustomerSales.ToList();
+//var total = customer.Sales.Select(s => s.Product.Price).Sum();
+
+
+//var customerSales = context.CustomerSales.ToList();
 
 //var totalsales = customer.Sales
 

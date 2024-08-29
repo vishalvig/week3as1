@@ -9,13 +9,13 @@ namespace Week3EntityFramework.Dtos
 {
     public class SaleDto
     {
-        public string ProductName { get; set;  }
+        public string ProductName { get; set; }
 
         public string CustomerName { get; set; }
 
         public decimal? Price { get; set; }
 
-        public SaleDto(Sale sale) 
+        public SaleDto(Sale sale)
         {
             ProductName = sale.Product?.Name;
 

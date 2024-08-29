@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|d:\\indusry connect\\week3\\week3as1\\week3as1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|d:\\indusry connect\\week3\\week3as1\\week3as1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|d:\\indusry connect\\week3\\week3as1\\week3as1\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|solutionrelative:dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|d:\\indusry connect\\week3\\week3as1\\week3as1\\week3entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|solutionrelative:week3entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720657EA-D4D4-41C7-90AC-646C1E3C91CF}|Models\\EntityModels\\EntityModels.csproj|d:\\indusry connect\\week3\\week3as1\\week3as1\\models\\entitymodels\\models\\industryconnectweek2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720657EA-D4D4-41C7-90AC-646C1E3C91CF}|Models\\EntityModels\\EntityModels.csproj|solutionrelative:models\\entitymodels\\models\\industryconnectweek2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720657EA-D4D4-41C7-90AC-646C1E3C91CF}|Models\\EntityModels\\EntityModels.csproj|d:\\indusry connect\\week3\\week3as1\\week3as1\\models\\entitymodels\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720657EA-D4D4-41C7-90AC-646C1E3C91CF}|Models\\EntityModels\\EntityModels.csproj|solutionrelative:models\\entitymodels\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720657EA-D4D4-41C7-90AC-646C1E3C91CF}|Models\\EntityModels\\EntityModels.csproj|d:\\indusry connect\\week3\\week3as1\\week3as1\\models\\entitymodels\\entitymodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{720657EA-D4D4-41C7-90AC-646C1E3C91CF}|Models\\EntityModels\\EntityModels.csproj|solutionrelative:models\\entitymodels\\entitymodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|d:\\indusry connect\\week3\\week3as1\\week3as1\\models\\entitymodels\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|solutionrelative:models\\entitymodels\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\obj\\Debug\\net8.0\\Week3EntityFramework.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Week3EntityFramework.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|d:\\indusry connect\\week3\\week3as1\\week3as1\\week3entityframework.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{94A7A162-B914-4E79-BE96-649EA9D4301B}|Week3EntityFramework.csproj|solutionrelative:week3entityframework.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-29T00:16:15.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Models\\EntityModels\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\EntityModels\\Models\\Sale.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Models\\EntityModels\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\EntityModels\\Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:06:43.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndustryConnectWeek2Context.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Models\\EntityModels\\Models\\IndustryConnectWeek2Context.cs",
+              "RelativeDocumentMoniker": "Models\\EntityModels\\Models\\IndustryConnectWeek2Context.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Models\\EntityModels\\Models\\IndustryConnectWeek2Context.cs",
+              "RelativeToolTip": "Models\\EntityModels\\Models\\IndustryConnectWeek2Context.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA7wBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:06:32.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:53:45.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Week3EntityFramework.csproj",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Week3EntityFramework.csproj",
+              "RelativeDocumentMoniker": "Week3EntityFramework.csproj",
+              "ToolTip": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Week3EntityFramework.csproj",
+              "RelativeToolTip": "Week3EntityFramework.csproj",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T23:48:17.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Dtos\\SaleDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\SaleDto.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Dtos\\SaleDto.cs",
+              "RelativeToolTip": "Dtos\\SaleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:16:16.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Models\\EntityModels\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\EntityModels\\Models\\Customer.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Models\\EntityModels\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\EntityModels\\Models\\Customer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:58:50.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Week3EntityFramework.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\obj\\Debug\\net8.0\\Week3EntityFramework.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Week3EntityFramework.AssemblyInfo.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\obj\\Debug\\net8.0\\Week3EntityFramework.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Week3EntityFramework.AssemblyInfo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:53:21.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityModels.csproj",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Models\\EntityModels\\EntityModels.csproj",
+              "RelativeDocumentMoniker": "Models\\EntityModels\\EntityModels.csproj",
+              "ToolTip": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Models\\EntityModels\\EntityModels.csproj",
+              "RelativeToolTip": "Models\\EntityModels\\EntityModels.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T23:51:18.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:53:00.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Week3EntityFramework",
+              "DocumentMoniker": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Week3EntityFramework.csproj",
+              "RelativeDocumentMoniker": "Week3EntityFramework.csproj",
+              "ToolTip": "D:\\Indusry Connect\\Week3\\Week3AS1\\week3as1\\Week3EntityFramework.csproj",
+              "RelativeToolTip": "Week3EntityFramework.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T23:12:12.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

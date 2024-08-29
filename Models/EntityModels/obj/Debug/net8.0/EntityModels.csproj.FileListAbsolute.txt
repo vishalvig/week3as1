@@ -1,0 +1,15 @@
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\bin\Debug\net8.0\EntityModels.deps.json
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\bin\Debug\net8.0\EntityModels.runtimeconfig.json
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\bin\Debug\net8.0\EntityModels.dll
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\bin\Debug\net8.0\EntityModels.pdb
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\obj\Debug\net8.0\EntityModels.csproj.AssemblyReference.cache
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\obj\Debug\net8.0\EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\obj\Debug\net8.0\EntityModels.AssemblyInfoInputs.cache
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\obj\Debug\net8.0\EntityModels.AssemblyInfo.cs
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\obj\Debug\net8.0\EntityModels.csproj.CoreCompileInputs.cache
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\obj\Debug\net8.0\EntityModels.sourcelink.json
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\obj\Debug\net8.0\EntityModels.dll
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\obj\Debug\net8.0\refint\EntityModels.dll
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\obj\Debug\net8.0\EntityModels.pdb
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\obj\Debug\net8.0\EntityModels.genruntimeconfig.cache
+D:\Indusry Connect\Week3\Week3AS1\week3as1\Models\EntityModels\obj\Debug\net8.0\ref\EntityModels.dll
